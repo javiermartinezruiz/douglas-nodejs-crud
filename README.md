@@ -1,8 +1,10 @@
 # douglas-nodejs-crud
 Simple CRUD
 
-## To Run
+## To Install
 npm install
+
+## To run
 npm start
 
 
