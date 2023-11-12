@@ -1,0 +1,49 @@
+{
+    "results": [
+        {
+            "id":"7083d831-ba62-4396-ad89-095016f205cd",
+            "name": {
+                "title": "Mr",
+                "first": "Parth",
+                "last": "Shukla"
+            },
+            "email": "parth.shukla@example.com"
+        },
+        {
+            "id":"8a672b32-f773-4cea-9105-553045ae96f9",
+            "name": {
+                "title": "Mr",
+                "first": "Adrian",
+                "last": "Wurst"
+            },
+            "email": "adrian.wurst@example.com"
+        },
+        {
+            "id":"f820311c-df6e-419c-b73c-009c41b0c820",
+            "name": {
+                "title": "Mr",
+                "first": "Nelmo",
+                "last": "Campos"
+            },
+            "email": "nelmo.campos@example.com"
+        },
+        {
+            "id":"f090397e-9282-4c3c-9675-b5a904691817",
+            "name": {
+                "title": "Ms",
+                "first": "Samantha",
+                "last": "Roberts"
+            },
+            "email": "samantha.roberts@example.com"
+        },
+        {
+            "id":"06f49d87-818c-4407-a59a-8db3609fab04",
+            "name": {
+                "title": "Ms",
+                "first": "Amelia",
+                "last": "Park"
+            },
+            "email": "amelia.park@example.com"
+        }
+    ]
+}
